@@ -1,6 +1,6 @@
-### tableChangeColor
+## tableChangeColor
 
-#### Demo
+### Demo
 ##### Only Add below Code
 ```
 <script type="text/javascript" src="./tableColorChange.js"></script>  
