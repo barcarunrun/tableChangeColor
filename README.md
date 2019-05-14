@@ -1,6 +1,5 @@
 ## TableElmentsChangeColor
 
-### Demo
 ##### Only Add below Code
 ```
 <script type="text/javascript" src="./tableColorChange.js"></script>  
@@ -12,6 +11,7 @@
   )
 </script>    
 ```
+### Demo
 ##### before
 https://sample-72be2.firebaseapp.com/before
 ##### after
