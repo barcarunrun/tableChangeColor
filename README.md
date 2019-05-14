@@ -1,6 +1,7 @@
 ### tableChangeColor
 
-####Demo
-#####before
+#### Demo
+##### before
 
-#####after
+
+##### after
